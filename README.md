@@ -1,9 +1,7 @@
 <h1 align="center">
 🔗<br>bio - Carlos3274
 </h1>
-
-![Resultado final do projeto](assets/image/resultado-final.png)
-
+<h2 align="center"><img  src="assets/image/resultado-final.png" alt="resultado-final"></h2>
 <h4 align="center"><a href="#">Clique para visitar o projeto</a></h4>
 <h4 align="center">@Hello 👋 I'm a Computer Science Student.</h4>
 
