@@ -289,3 +289,12 @@ input:checked+.slider .efeito-sol {
     font-style: italic;
     font-size: small
 }
+
+footer p a {
+    text-decoration: none;
+    color: #fff;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
